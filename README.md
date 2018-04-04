@@ -29,7 +29,7 @@ Time spent: 9 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.0
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: <img src="thrid.gif" width="800">
+  - [ ] GIF Walkthrough: <img src="third.gif" width="800">
   - [ ] Steps to recreate: post a image, then change the title of image with "examplePicture<img src=a onerror=alert('hello')>.jpg", then click view attachment page.
   - [ ] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
